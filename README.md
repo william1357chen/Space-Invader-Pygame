@@ -5,13 +5,13 @@ Make sure Python 3 is installed on your computer. If not, download Python 3 from
 
 Run the following command in the terminal to install the Pygame library.
 ```bash
-pip3 install pygame
+$ pip3 install pygame
 ```
 
 ## Run Application
 Download the source code from the respository and run the file with the command.
 ```bash
-python3 SpaceInvader/src/main.py
+$ python3 SpaceInvader/src/main.py
 ```
 ## Screenshots
 ### Start Menu
@@ -42,7 +42,7 @@ python3 SpaceInvader/src/main.py
 * Wei Lin Chen 
 
 ## Acknowledgements
-This project is based on the works of Pygame Tutorial for Beginners on [freeCodeCamp](http://www.freecodecamp.org/ "freeCodeCamp"). The image and sound files are obtained from the original repository. Any additional knowledge were obtained from the offical Pygame documentations.
+This project is based on the works of Pygame Tutorial for Beginners on [freeCodeCamp](http://www.freecodecamp.org/ "freeCodeCamp"). The image and sound files were obtained from the original repository. Any additional knowledge were obtained from the offical Pygame documentations.
 
 * [Pygame Tutorial Video](https://www.youtube.com/watch?v=FfWpgLFMI7w)
 * [Original Github Repository](https://github.com/attreyabhatt/Space-Invaders-Pygame)
