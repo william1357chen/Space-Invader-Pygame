@@ -1,3 +1,5 @@
 .idea
 .vscode
 src/venv
+src-v1.0.0
+src-v2.0.0/__pycache__
