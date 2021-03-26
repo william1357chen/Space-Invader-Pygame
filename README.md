@@ -1,4 +1,4 @@
-# Space Invader 1.0.0
+# Space Invader 2.0.0
 A space invader game with self-added features, written in Python using the Pygame library.
 ## Install Pygame
 Make sure Python 3 is installed on your computer. If not, download Python 3 from the official website [Python](http://www.https://www.python.org/ "Python"). 
