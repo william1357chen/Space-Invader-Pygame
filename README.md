@@ -11,7 +11,7 @@ $ pip3 install pygame
 ## Run Application
 Download the source code from the respository and run the file with the command.
 ```bash
-$ python3 Space-Invader-Pygame/src/main.py
+$ python3 Space-Invader-Pygame/src-v2.0.0/main.py
 ```
 ## Screenshots
 ### Start Menu
